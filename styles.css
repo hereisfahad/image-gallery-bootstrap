@@ -1,0 +1,11 @@
+body{
+    margin-top: 75px;
+}
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 353px;
+    height: 569px;
+}
